@@ -1,4 +1,5 @@
 {
     "commentTranslate.targetLanguage": "es",
-    "cmake.sourceDirectory": "C:/Y2mate/palabrasjtta/linux"
+    "cmake.sourceDirectory": "C:/Y2mate/palabrasjtta/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
